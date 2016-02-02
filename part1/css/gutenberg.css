@@ -1,0 +1,183 @@
+body {
+margin-left: 20%;
+margin-right: 20%;
+background:url("../images/paper.png");
+background-repeat: repeat;
+font-family:  Georgia, serif;
+text-align:justify
+}
+
+P {
+text-indent:2em;
+margin-top:.25em;
+margin-bottom:.25em
+}
+
+H1,H2,H3,H4,H5,H6 {
+text-align:center;
+margin-left:15%;
+margin-right:15%
+}
+
+hr {
+width:50%;
+text-align:center
+}
+
+.un {
+text-decoration:underline;
+text-indent:0;
+margin:2% auto 2% 15%
+}
+
+.foot {
+margin-left:20%;
+margin-right:20%;
+text-align:justify;
+text-indent:-3em;
+font-size:90%
+}
+
+blockquote {
+font-size:97%;
+font-style:italic;
+margin-left:10%;
+margin-right:10%
+}
+
+.mynote {
+background-color:#DDE;
+color:#000;
+padding:.5em;
+margin-left:20%;
+margin-right:20%;
+font-family:sans-serif;
+font-size:95%
+}
+
+.toc {
+margin-left:10%;
+margin-bottom:.75em
+}
+
+.toc2 {
+margin-left:20%
+}
+
+div.fig {
+display:block;
+margin:0 auto;
+text-align:center
+}
+
+.figleft {
+float:left;
+margin-left:0;
+margin-right:1%
+}
+
+.figright {
+float:right;
+margin-right:0;
+margin-left:1%
+}
+
+.poem {
+margin-left:20%;
+text-indent:0;
+font-size:.9em
+}
+
+.poem .stanza {
+margin-top:1em;
+margin-bottom:1em
+}
+
+.poem span.i0 {
+display:block;
+margin-left:0;
+padding-left:3em;
+text-indent:-3em
+}
+
+.poem span.i4 {
+display:block;
+margin-left:2em;
+padding-left:3em;
+text-indent:-3em
+}
+
+table {
+border:none;
+text-align:left;
+margin:5% auto
+}
+
+
+link {
+background-color:#fff;
+color:blue;
+text-decoration:none
+}
+
+a:visited {
+background-color:#fff;
+color:purple;
+text-decoration:none
+}
+
+a:hover {
+background-color:#fff;
+color:red;
+text-decoration:underline
+}
+
+.smcap {
+font-variant:small-caps;
+font-size:100%
+}
+
+img {
+border:none
+}
+
+.blockquot {
+margin-top:2%;
+margin-bottom:2%
+}
+
+.blockquot2 {
+margin:2% 20%
+}
+
+.boxx {
+border:solid 1px #000;
+padding:1%;
+margin:1% auto 3%;
+max-width:50%
+}
+
+.boxxx {
+border:none;
+padding:1%;
+margin:1% auto 3%;
+max-width:50%
+}
+
+sub {
+font-size:70%;
+vertical-align:bottom
+}
+
+.figcenter {
+text-align:center;
+text-indent:0;
+margin:3% auto
+}
+
+pre {
+font-family:Times;
+font-style:italic;
+font-size:90%;
+margin-left:10%
+}
