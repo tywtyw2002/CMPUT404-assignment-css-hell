@@ -22,3 +22,12 @@ repository and (C) 2013 Abram Hindle, Tianyi Wu visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+References
+==========
+Part 1, background images: http://www.topgalleryphotos.com/wp-content/uploads/2014/10/paper%20background-sPvM.jpg
+Part 2, person page CSS base on: https://github.com/lduo/resume
+Part 2, person page background: http://163.20.173.57/stud94/930/33/drop2.gif
+
+
+
+
